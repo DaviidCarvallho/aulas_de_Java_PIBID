@@ -6,7 +6,7 @@ public class Main {
 
         // Criando um objeto Usuario utilizando o construtor
         Usuario usuario = new Usuario(
-                "Maria Silva",
+                "Maria",
                 17,
                 "Garanhuns",
                 "Estudante de Informática"
