@@ -1,3 +1,4 @@
+package ifelse;
 import java.util.Scanner;
 
 public class situacaoAluno {
