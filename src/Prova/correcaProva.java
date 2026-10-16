@@ -18,4 +18,4 @@ public class correcaProva {
 			System.out.println("Salário = R$ " + salario + ".");
 	        sc.close();
 	}
-    }
+}
